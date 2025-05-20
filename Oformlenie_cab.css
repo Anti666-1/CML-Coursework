@@ -1,0 +1,360 @@
+html, body {
+    background-image: url(1681494223_pictures-pibig-info-p-temnii-les-illyustratsiya-vkontakte-58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    font-size: 16px;
+    font-family: "Aniron";
+  }
+  /* ============================================================ */
+  form {
+    color:#89b6b9;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 35px;
+    display: flex;
+    flex-direction: column;
+}
+.form-group {
+    display: flex;
+    margin-bottom: 35px;
+}
+.form-group > label{
+    font-size: 20px;
+    height: 30px;
+    width: 335px;
+    margin-right: 20px;
+    text-align: right;
+    color:#89b6b9;
+}
+.right{
+  background-image: url(1681494223_pictures-pibig-info-p-temnii-les-illyustratsiya-vkontakte-58-2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+    font-size: 20px;
+    padding-left: 10px;
+    width: 50%;
+    border: #7d9797 4px ridge;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-family: "Aniron";
+}
+.right:hover{
+  box-shadow:
+    5px 5px 10px rgba(174, 206, 201, 0.2),  
+    -5px -5px 10px rgba(174, 206, 201, 0.2),
+    -5px 5px 10px rgba(174, 206, 201, 0.2),  
+    5px -5px 10px rgba(174, 206, 201, 0.2);
+    outline: #132020 1px solid;
+}
+.right::placeholder{
+  color: rgb(174, 206, 201);
+  font-family: "Aniron";
+}
+#button{
+  background-image: url(1681494223_pictures-pibig-info-p-temnii-les-illyustratsiya-vkontakte-58-2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  outline: #132020 1px solid;
+    width: 20%; 
+    height: 50px; 
+    font-size: 20px;
+    border: #7d9797 4px ridge;
+    border-radius: 5px;
+    color: white;
+    margin-left: 5%;
+    font-family: "Aniron";
+    margin-top: 30px;
+    color: #95cfd3;
+}
+
+footer{
+    text-align: center;
+}
+
+h1{
+  text-align: center;
+    display: inline-block;
+    color: white;
+}
+
+footer h1:first-child{
+    font-size: 30px;
+}
+  /* ============================================================ */
+  .grid {
+    display: grid;
+    grid-template-areas:
+        "head head"
+        "cont aside"
+        "niz aside";
+    grid-template-columns: 70% 30%;
+    grid-template-rows: 15% 1fr 15%; /* 1fr для контента, auto для шапки и подвала */
+    grid-gap: 0px;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+    min-height: 100vh; 
+    max-height: 100vh;
+    overflow: hidden; 
+    background-image: linear-gradient(
+        to bottom,
+        transparent 0%,
+        rgb(50, 63, 62) 15%,
+        rgb(30, 36, 40) 60%,
+        rgb(25, 29, 30) 85%,
+        transparent 100%
+    );
+  } 
+  
+  header {
+    border-bottom: 1px solid #5d7070;
+    background-color: transparent; 
+    color: white;
+    position: relative; 
+    z-index: 1;
+    width: 100%; 
+    display: flex;
+    gap: 3%;  
+  }
+  
+  header #verh{
+    flex: none;
+    display: flex;
+    gap: 20%;
+    width: 100%;
+    color: #95cfd3;
+  }
+
+  .container {
+    box-sizing: border-box;
+    min-height: 0; 
+    max-height: 100%;
+    overflow-y: auto;
+    font-size: 14px;
+    scrollbar-width: thin;
+    scrollbar-color: #89b6b9 #202423;
+    padding: 1em;
+    background-color: transparent;
+    box-shadow: inset -5px 0px -5px 15px rgba(0, 0, 0, 0.5);
+  }
+  
+  .container::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  aside {
+    border-left: 1px solid #5d7070;
+    background-image: url(—Pngtree—3d-smoky-horror-ghost-girl_16561213.png);
+    background-size: 90% 80%;
+    background-repeat: no-repeat;
+    background-position-y: 100%;
+    background-position-x: 100%;
+    padding: 1em;
+    overflow-y: auto; 
+    max-height: 100%;
+    scrollbar-width: thin;
+    scrollbar-color: #89b6b9 #202423;
+    z-index: 8;
+  }
+  
+  aside ul li a{color: white; text-decoration: none;}
+  aside ul li{list-style-type: none;}
+  
+  aside::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  #genre{
+    list-style-type: none;
+    padding-left: 10%;
+    margin-left: 0;
+    font-size: 16px;
+    color: white;
+  }
+  #v1, #v2{
+    display: inline-block;
+  }
+  #ghost, #free, #cab, #genres {
+    display: block;
+  }
+  #cab{
+    margin-left: -28%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+  }
+  #cab a{
+    text-decoration: none;
+    color: #95cfd3;
+  }
+  #ghost{
+    font-size: 50px;
+    color: white;
+  }
+  #cab, #free, #genres{
+    font-size: 20px;
+    color: #95cfd3;
+  }
+  header #verh{
+    flex: none;
+    display: flex;
+    gap: 20%;
+    width: 100%;
+  }
+  
+  header #logo{
+      background-image: url(—Pngtree—3d-smoky-horror-ghost-girl_16561213-full.png);
+      background-size: 100% 110%;
+        width: 200px;
+        height: 140px;
+      margin-left: 3%;
+      flex: none;
+  }
+  
+  #v{visibility: hidden;}
+    
+  @media (max-width: 1500px) {
+    .grid{
+      margin: 0;
+    }
+  }
+  @media (max-width: 1110px) {
+    header #verh{
+      gap: 10%;
+    }
+    #ghost{
+      font-size: 35px;
+    }
+    #cab, #free, #genres{
+      font-size: 16px;
+    }
+  }
+  @media (max-width: 768px) {
+    .grid {
+        grid-template-areas:
+            "head head"
+            "cont genre"
+            "niz niz";
+            grid-template-columns: 100%;
+            grid-template-rows: 15% 75% 15%; 
+        margin: 0;
+    }
+  
+    header #verh{
+      flex: none;
+      display: flex;
+      gap: 10%;
+      width: 100%;
+    }
+    footer h1:first-child{
+      font-size: 25px;
+  }
+  #button{
+      font-size: 16px;
+  }
+  .right{
+      font-size: 14px;
+  }
+  .form-group > label{
+    font-size: 16px;
+  }
+    html, body {
+      font-size: 12px;
+    }
+  
+    #ghost{
+      font-size: 26px;
+      vertical-align: middle;
+      margin: 5%;
+      margin-right: 10%;
+    }
+    #cab, #genres{
+      font-size: 16px;
+    }
+    #free{
+      display: none;
+      visibility: hidden;
+    }
+    #genres>ul>li {position: relative;} 
+    #genres ul {position: absolute;}
+    #pod{
+    margin: 0 0 0 -70px;
+    visibility: hidden;}
+      #v{
+          margin: 0 0 0 -60px;
+          visibility: hidden;
+          display: block;
+          width: 300px;
+      }
+  
+    #genres:hover #v a
+    {visibility: visible;
+      font-size: 10px;
+        text-decoration: none;
+        color: white;
+    }
+    #genres:hover #v{
+      padding: 5px;
+      margin-top: -1px;
+      visibility: visible;
+      width: 200px;
+      border: #5d7070 1px solid;
+      background-color:rgba(25, 29, 30, 0.8);
+    }
+    ul li{list-style-type: none}
+    #genres:hover{
+      padding: 10px;
+        padding: 0px;
+        width: 200px;
+    }
+    #genres:hover #pod{
+        margin-top: -20px;
+        visibility: hidden;
+        width: 300px;
+    }
+    header #logo{
+      margin-left: 0;
+  }
+  header, header #verh{
+    gap: 0;  
+  }
+  }
+  @media (max-width: 480px) {
+    header #logo{
+      width: 150px;
+      height: 105px;
+      position: relative;
+      translate:0 30px;
+      background-repeat: no-repeat;
+      background-size: 100%;
+  }
+  
+  #ghost{
+    font-size: 20px;
+    margin: 5px;
+  }
+  #v1, #v2, header #verh{
+    display: block;
+  }
+  #v2{
+    margin-left: 20%;
+    font-size: 12px;
+  }
+  #cab{
+    margin-left: -28%;
+    margin-top: 5%;
+    margin-bottom: 0;
+  }
+  #v{
+    margin: 0 0 0 -80px;
+  }
+  }

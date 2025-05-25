@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+       <genre id="genre125">
+        <genre_name>Avant-Garde Black Metal</genre_name>
+        <artist id="artist459">
+        <country>Франция</country>
+            <artist_name>Deathspell Omega</artist_name>
+            <info>Deathspell Omega — французская авангардная блэк-метал-группа, основанная 
+            в 1998 году в Пуатье. Точный состав коллектива неизвестен, а музыканты никогда
+             не выступали вживую. Лирика группы посвящена метафизическому сатанизму,
+              а также философии Батая и Гегеля.</info>
+            <album id="album794">
+                <album_name>Paracletus</album_name>
+                <image>images/Paracletus.jpg</image>
+                <year>2010</year>
+                <song id="song134">
+                    <song_name>Apokatastasis Pantôn</song_name>
+                    <length>04:03</length>
+                    <album_id>album794</album_id>
+                    <file>music/deathspell-omega-apokatastasis-panton.mp3</file>
+                </song>
+                <song id="song135">
+                    <song_name>Epiklesis II</song_name>
+                    <length>03:03</length>
+                    <album_id>album794</album_id>
+                    <file>music/deathspell-omega-epiklesis-ii.mp3</file>
+                </song>
+                <song id="song136">
+                    <song_name>Devouring Famine</song_name>
+                    <length>05:06</length>
+                    <album_id>album794</album_id>
+                    <file>music/deathspell-omega-devouring-famine.mp3</file>
+                </song>
+                <song id="song137">
+                    <song_name>Phosphene</song_name>
+                    <length>06:58</length>
+                    <album_id>album794</album_id>
+                    <file>music/deathspell-omega-phosphene.mp3</file>
+                </song>
+                <song id="song138">
+                    <song_name>Dearth</song_name>
+                    <length>03:44</length>
+                    <album_id>album794</album_id>
+                    <file>music/deathspell-omega-dearth.mp3</file>
+                </song>
+                 <song id="song139">
+                    <song_name>Abscission</song_name>
+                    <length>06:03</length>
+                    <album_id>album794</album_id>
+                    <file>music/deathspell-omega-abscission.mp3</file>
+                </song>
+            </album>
+        </artist>
+        <artist id="artist461">
+        <country>Польша</country>
+            <artist_name>Batushka</artist_name>
+            <info>Batushka или Батюшка — польская блэк-метал-группа, основанная в 2015 году.
+             Является проектом Кшиштофа Драбиковского (пол. Krzysztof «Христофор» Drabikowski).
+            Участниками концертных выступлений также являлись Бартоломей Крысюк, Яцек Лазаров, 
+            Артур Грассманн.</info>
+            <album id="album800">
+                <album_name>Litourgia</album_name>
+                <image>images/Litourgia.jpg</image>
+                <year>2015</year>
+                <song id="song167">
+                    <song_name>Yekteniya 1</song_name>
+                    <length>05:45</length>
+                    <album_id>album800</album_id>
+                    <file>music/batushka-yekteniya-1-очищение.mp3</file>
+                </song>
+                <song id="song168">
+                    <song_name>Yekteniya 2</song_name>
+                    <length>04:22</length>
+                    <album_id>album800</album_id>
+                    <file>music/batushka-yekteniya-2-благословение.mp3</file>
+                </song>
+                <song id="song169">
+                    <song_name>Yekteniya 3</song_name>
+                    <length>04:51</length>
+                    <album_id>album800</album_id>
+                    <file>music/batushka-yekteniya-3-премудрость.mp3</file>
+                </song>
+                <song id="song170">
+                    <song_name>Yekteniya 5</song_name>
+                    <length>06:00</length>
+                    <album_id>album800</album_id>
+                    <file>music/batushka-yekteniya-5-святыи-вход.mp3</file>
+                </song>
+                <song id="song171">
+                    <song_name>Yekteniya 6</song_name>
+                    <length>04:13</length>
+                    <album_id>album800</album_id>
+                    <file>music/batushka-yekteniya-6-уповане.mp3</file>
+                </song>
+                <song id="song172">
+                    <song_name>Yekteniya 7</song_name>
+                    <length>05:34</length>
+                    <album_id>album800</album_id>
+                    <file>music/batushka-yekteniya-7-истина.mp3</file>
+                </song>
+                <song id="song173">
+                    <song_name>Yekteniya 8</song_name>
+                    <length>05:09</length>
+                    <album_id>album800</album_id>
+                    <file>music/batushka-yekteniya-8-спасение.mp3</file>
+                </song>
+            </album>
+        </artist>
+    </genre>
+     <genre id="genre123">
+        <genre_name>DS Black Metal</genre_name>
+        <artist id="artist460">
+        <country>Германия</country>
+         <info>Немецкий трио-проект Anti из города Бранденбурга образовался в
+          2003 году. С этим лаконичным названием участники, вооружившись 
+          тематикой самоубийства, одиночества и пустоты, стали преподносить 
+          Depressive Black Metal, преимущественно в скоростной манере
+           исполнения.Свой первый материал, сплит
+            "Longing For the End / Dimension Perversum", музыканты совместно 
+            с соотечественниками из группы Nekrofilet издали собственными 
+            силами. На нём со стороны Anti было представлено 4 композиции, 
+            которые спустя два года переехали на демо "Longing For The End".
+             А чуть позднее, 12 мая 2005 года, лейбл Insomnia Distribution 
+             взялся за переиздание оного на CD-R.</info>
+            <artist_name>Anti</artist_name>
+            <album id="album795">
+                <album_name>The Insignificance Of Life</album_name>
+                <image>images/Anti.jpg</image>
+                <year>2006</year>
+                <song id="song140">
+                    <song_name>Death Into Life</song_name>
+                    <length>06:15</length>
+                    <album_id>album795</album_id>
+                    <file>music/anti-death-into-life.mp3</file>
+                </song>
+                <song id="song141">
+                    <song_name>Farewell (Escape Into Beyond)</song_name>
+                    <length>06:09</length>
+                    <album_id>album795</album_id>
+                    <file>music/anti-farewell-escape-into-beyond.mp3</file>
+                </song>
+                <song id="song142">
+                    <song_name>Invocation</song_name>
+                    <length>05:52</length>
+                    <album_id>album795</album_id>
+                    <file>music/anti-invocation.mp3</file>
+                </song>
+                <song id="song143">
+                    <song_name>Mourning Soul [Absurd cover]</song_name>
+                    <length>03:34</length>
+                    <album_id>album795</album_id>
+                    <file>music/anti-mourning-soul-absurd-cover.mp3</file>
+                </song>
+                <song id="song144">
+                    <song_name>Zero Point</song_name>
+                    <length>03:36</length>
+                    <album_id>album795</album_id>
+                    <file>music/anti-zero-point.mp3</file>
+                </song>
+            </album>
+        </artist>
+        <artist id="artist456">
+        <country>Швеция</country>
+            <artist_name>Silencer</artist_name>
+            <info>Silencer (с англ. — «Глушитель») — шведская музыкальная группа, игравшая
+             в стиле депрессивно-суицидальный блэк-метал. Проект был создан усилиями
+             двух музыкантов, известных под псевдонимами Nattramn и Leere. Поскольку 
+             участники группы никогда не выступали вживую, не поддерживали сайт и 
+             всего один раз дали интервью, биография группы крайне скудна и изобилует
+              различными домыслами и слухами. Фактически история коллектива началась
+               в 1995 году, однако первая демозапись, состоявшая из единственной 
+               композиции Death — Pierce Me, была выпущена только в 1998. 
+               Единственный альбом группы Death — Pierce Me вышел в 2001 году. 
+               Вскоре после записи альбома участники проекта прекратили общение, 
+               что привело к распаду коллектива.</info>
+            <album id="album789">
+                <album_name>Death - Pierce Me</album_name>
+                <image>images/Death-pierce-me.jpg</image>
+                <year>2001</year>
+                <song id="song101">
+                    <song_name>Sterile Nails And Thunderbowels</song_name>
+                    <length>06:17</length>
+                    <album_id>album789</album_id>
+                    <file>music/Silencer-Sterile-Nails-And-Thunderbowels-256kbps-cbr-(1).mp3</file>
+                </song>
+                <song id="song102">
+                    <song_name>Death - Pierce Me</song_name>
+                    <length>10:34</length>
+                    <album_id>album789</album_id>
+                    <file>music/silencer-death-pierce-me.mp3</file>
+                </song>
+                <song id="song103">
+                    <song_name>I Shall Lead, You Shall Follow</song_name>
+                    <length>08:50</length>
+                    <album_id>album789</album_id>
+                    <file>music/silencer-i-shall-lead-you-shall-follow.mp3</file>
+                </song>
+                <song id="song104">
+                    <song_name>Taklamakan</song_name>
+                    <length>08:35</length>
+                    <album_id>album789</album_id>
+                    <file>music/silencer-taklamakan.mp3</file>
+                </song>
+                <song id="song105">
+                    <song_name>The Slow Kill In The Cold</song_name>
+                    <length>11:37</length>
+                    <album_id>album789</album_id>
+                    <file>music/silencer-the-slow-kill-in-the-cold.mp3</file>
+                </song>
+                 <song id="song106">
+                    <song_name>Feeble Are You - Sons Of Sion</song_name>
+                    <length>03:02</length>
+                    <album_id>album789</album_id>
+                    <file>music/silencer-feeble-are-you-sons-of-sion.mp3</file>
+                </song>
+            </album>
+        </artist>
+        <artist id="artist465">
+         <country>США</country>
+        <info>Leviathan — американская блэк-метал-группа, основанная в 1998 году. 
+        Leviathan был основан в Сан-Франциско, США как проект из одного 
+        человека Джефом Уайтхедом (англ. Jef Whitehead) под псевдонимом «Wrest».
+         В период с 2000 года по 2002 год Wrest записал 15 демо-записей и выпустил 3 компиляции.
+          В 2003 году вышел дебютный альбом Leviathan 
+          «The Tenth Sub Level of Suicide» на лейбле Moribund Records.
+           Этот альбом получил широкую известность во многих андеграунд-кругах.
+            Годом позже Wrest записал 3 сплит-альбома c группами Xasthur и Crebain и 16 июня
+             того же года вышел второй студийный альбом «Tentacles of Whorror» 
+             на лейбле Moribund Records.</info>
+            <artist_name>Leviathan</artist_name>
+            <album id="album803">
+                <album_name>The Tenth Sublevel Of Suicide</album_name>
+                <image>images/The-Tenth-Sub-Level-Of-Suicide.jpg</image>
+                <year>2003</year>
+                <song id="song186">
+                    <song_name>Scenic Solitude and Leprosy</song_name>
+                    <length>06:45</length>
+                    <album_id>album803</album_id>
+                    <file>music/leviathan-scenic-solitude-and-leprosy.mp3</file>
+                </song>
+                 <song id="song187">
+                    <song_name>Introit</song_name>
+                    <length>01:14</length>
+                    <album_id>album803</album_id>
+                    <file>music/Leviathan_-_Introit_73123044.mp3</file>
+                </song>
+                 <song id="song188">
+                    <song_name>He Whom Shadows Move Towards</song_name>
+                    <length>06:38</length>
+                    <album_id>album803</album_id>
+                    <file>music/leviathan-he-whom-shadows-move-towards.mp3</file>
+                </song>
+                 <song id="song189">
+                    <song_name>The Bitter Emblem of Dissolve</song_name>
+                    <length>05:55</length>
+                    <album_id>album803</album_id>
+                    <file>music/leviathan-the-bitter-emblem-of-dissolve.mp3</file>
+                </song>
+                 <song id="song190">
+                    <song_name>At the Door to the Tenth Sub Level of Suicide</song_name>
+                    <length>15:02</length>
+                    <album_id>album803</album_id>
+                    <file>music/leviathan-at-the-door-to-the-tenth-sub-level-of-suicide.mp3</file>
+                </song>
+                 <song id="song191">
+                    <song_name>Fucking Your Ghost in Chains of Ice</song_name>
+                    <length>05:40</length>
+                    <album_id>album803</album_id>
+                    <file>music/leviathan-fucking-your-ghost-in-chains-of-ice.mp3</file>
+                </song>
+                 <song id="song192">
+                    <song_name>Sardoniscorn</song_name>
+                    <length>09:54</length>
+                    <album_id>album803</album_id>
+                    <file>music/leviathan-sardoniscorn.mp3</file>
+                </song>
+                 <song id="song193">
+                    <song_name>The Idiot Sun</song_name>
+                    <length>09:33</length>
+                    <album_id>album803</album_id>
+                    <file>music/leviathan-the-idiot-sun.mp3</file>
+                </song>
+            </album>
+            <album id="album804">
+                <album_name>Tentacles of Whorror</album_name>
+                <image>images/tentacles.jpg</image>
+                <year>2004</year>
+                <song id="song194">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+                <song id="song195">
+                    <song_name>Tentacles of Whorror (Revel the Tyrant)</song_name>
+                    <length>09:08</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-tentacles-of-whorror-revel-the-tyrant.mp3</file>
+                </song>
+                <song id="song196">
+                    <song_name>Blood Red and True: Part 3 (Plummeting Obscure)</song_name>
+                    <length>03:42</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-blood-red-and-true-part-3-plummeting-obscure.mp3</file>
+                </song>
+                <song id="song197">
+                    <song_name>Cut, With The Night Into Mine</song_name>
+                    <length>05:13</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-cut-with-the-night-into-mine.mp3</file>
+                </song>
+                <song id="song198">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+                <song id="song199">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+                <song id="song200">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+                <song id="song201">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+                <song id="song202">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+                <song id="song203">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+                <song id="song204">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+                <song id="song205">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+                 <song id="song206">
+                    <song_name>A Bouquet of Blood For Skull</song_name>
+                    <length>04:16</length>
+                    <album_id>album804</album_id>
+                    <file>music/leviathan-a-bouquet-of-blood-for-skull.mp3</file>
+                </song>
+            </album>
+        </artist>
+    </genre>
+    <genre id="genre124">
+        <genre_name>NS Black Metal</genre_name>
+        <artist id="artist457">
+        <country>Германия</country>
+            <artist_name>Absurd</artist_name>
+            <info>Absurd — немецкая музыкальная группа, играющая в стиле NSBM, запрещенная в Тюрингии как экстремистская.
+                 Основана в Зондерсхаузене Хендриком Мёбусом и Себастьяном Шаузейлем в 1992 году, позже к ним присоединился Андреас Кирхнер.
+                  Тематика песен: язычество (Хендрик Мёбус является основателем неоязыческой группировки Deutsche Heidnische Front[англ.]), 
+                  а также антихристианство. C 1999 в составе группы произошло много изменений. В настоящее время лидером является Вольф Мёбус,
+                   брат Хендрика. Группа получила дурную славу, потому что её первоначальные участники (которые с 1999 год больше не являются 
+                   участниками группы) в 1993 убили 15-летнего Сандро Бейера. Основной мотив состоит в том, что Бейер был причастен к отношениям 
+                   Себастьяна Шаузейля с замужней женщиной и распространял слухи об этом и других действиях группы. 29 апреля в Зондерсхаузене 
+                   17-летние участники группы Мёбус, Шаузейл и Кирхнер пригласили Бейера на собрание и задушили его электрическим шнуром.
+                    Кирхнер, печально известный своей цитатой, сказал: «Вот дерьмо, теперь я полностью разрушил свою жизнь». 
+                    Шаузейл утверждал, что слышал голос в своей голове, произносящий бессмысленную фразу «Kuster Maier», 
+                    которую он интерпретировал как «Töte Beyer» («убить Бейера»).</info>
+            <album id="album790">
+                <album_name>Blutgericht</album_name>
+                <image>images/Blutgericht.jpg</image>
+                <year>2005</year>
+                <song id="song107">
+                    <song_name>Der Henker</song_name>
+                    <length>03:54</length>
+                    <album_id>album790</album_id>
+                    <file>music/absurd-der-henker.mp3</file>
+                </song>
+                <song id="song108">
+                    <song_name>Die Galgenbruder</song_name>
+                    <length>04:29</length>
+                    <album_id>album790</album_id>
+                    <file>music/absurd-die-galgenbruder.mp3</file>
+                </song>
+                <song id="song109">
+                    <song_name>Gottloses Mordgesindel</song_name>
+                    <length>05:42</length>
+                    <album_id>album790</album_id>
+                    <file>music/absurd-gottloses-mordgesindel.mp3</file>
+                </song>
+                <song id="song110">
+                    <song_name>Kriegertod</song_name>
+                    <length>05:13</length>
+                    <album_id>album790</album_id>
+                    <file>music/absurd-kriegertod.mp3</file>
+                </song>
+                <song id="song111">
+                    <song_name>Totentanzlied Aus Flandern</song_name>
+                    <length>04:53</length>
+                    <album_id>album790</album_id>
+                    <file>music/absurd-totentanzlied-aus-flandern.mp3</file>
+                </song>
+                 <song id="song112">
+                    <song_name>Winterdamon</song_name>
+                    <length>03:11</length>
+                   <album_id>album790</album_id>
+                    <file>music/absurd-winterdamon.mp3</file>
+                </song>
+            </album>
+            <album id="album791">
+                <album_name>Totenlieder</album_name>
+                <image>images/Absurd_-_Totenlieder.jpg</image>
+                <year>2005</year>
+               
+                <song id="song113">
+                    <song_name>In Die Schlacht</song_name>
+                    <length>05:54</length>
+                    <album_id>album791</album_id>
+                    <file>music/absurd-in-die-schlacht.mp3</file>
+                </song>
+                <song id="song114">
+                    <song_name>Stahl Blitzt Calt</song_name>
+                    <length>04:02</length>
+                    <album_id>album791</album_id>
+                    <file>music/absurd-stahl-blitzt-kalt.mp3</file>
+                </song>
+                <song id="song115">
+                    <song_name>Wolfsherz</song_name>
+                    <length>03:09</length>
+                    <album_id>album791</album_id>
+                    <file>music/absurd-wolfsherz.mp3</file>
+                </song>
+                <song id="song116">
+                    <song_name>Der Hammer Zerschmettert Das Kreuz</song_name>
+                    <length>02:48</length>
+                    <album_id>album791</album_id>
+                    <file>music/absurd-der-hammer-zerschmettert-das-kreuz.mp3</file>
+                </song>
+                <song id="song117">
+                    <song_name>Wenn Walküren Reiten</song_name>
+                    <length>04:18</length>
+                    <album_id>album791</album_id>
+                    <file>music/absurd-wenn-walkuren-reiten.mp3</file>
+                </song>
+                 <song id="song118">
+                    <song_name>Nordmännerlied</song_name>
+                    <length>04:22</length>
+                   <album_id>album791</album_id>
+                    <file>music/absurd-nordmannerlied.mp3</file>
+                </song>
+                <song id="song119">
+                    <song_name>Nachtraunen</song_name>
+                    <length>03:21</length>
+                   <album_id>album791</album_id>
+                    <file>music/absurd-nachtraunen.mp3</file>
+                </song>
+            </album>
+             <album id="album792">
+                <album_name>Der Fünfzehnjährige Krieg</album_name>
+                <image>images/Der-Funfzehnjahrige-Krieg.jpg</image>
+                <year>2008</year>
+    
+                <song id="song120">
+                    <song_name>Last Breath</song_name>
+                    <length>04:06</length>
+                    <album_id>album792</album_id>
+                    <file>music/absurd-last-breath.mp3</file>
+                </song>
+                <song id="song121">
+                    <song_name>Ashes To Ashes</song_name>
+                    <length>03:09</length>
+                    <album_id>album792</album_id>
+                    <file>music/absurd-ashes-to-ashes.mp3</file>
+                </song>
+                <song id="song122">
+                    <song_name>Asgardsrei</song_name>
+                    <length>03:28</length>
+                    <album_id>album792</album_id>
+                    <file>music/absurd-asgardsrei.mp3</file>
+                </song>
+                <song id="song123">
+                    <song_name>Werwolf</song_name>
+                    <length>02:23</length>
+                    <album_id>album792</album_id>
+                    <file>music/absurd-werwolf.mp3</file>
+                </song>
+                <song id="song124">
+                    <song_name>In Des Mondes Blut'gen Schein</song_name>
+                    <length>04:36</length>
+                    <album_id>album792</album_id>
+                    <file>music/absurd-in-des-mondes-blutgen-schein.mp3</file>
+                </song>
+                 <song id="song125">
+                    <song_name>Gates Of Heaven</song_name>
+                    <length>03:14</length>
+                   <album_id>album792</album_id>
+                    <file>music/absurd-gates-of-heaven.mp3</file>
+                </song>
+                <song id="song126">
+                    <song_name>Eternal Winter</song_name>
+                    <length>04:10</length>
+                   <album_id>album792</album_id>
+                    <file>music/absurd-eternal-winter.mp3</file>
+                </song>
+                <song id="song127">
+                    <song_name>Pesttanz</song_name>
+                    <length>02:45</length>
+                   <album_id>album792</album_id>
+                    <file>music/absurd-pesttanz.mp3</file>
+                </song>
+                <song id="song128">
+                    <song_name>Mourning Soul</song_name>
+                    <length>02:03</length>
+                   <album_id>album792</album_id>
+                    <file>music/absurd-mourning-soul.mp3</file>
+                </song>
+                <song id="song129">
+                    <song_name>Der Grosse Tod</song_name>
+                    <length>02:39</length>
+                   <album_id>album792</album_id>
+                    <file>music/absurd-der-grosse-tod.mp3</file>
+                </song>
+            </album>
+            <album id="album793">
+                <album_name>Werewolfthron</album_name>
+                <image>images/Werewolfthron.jpg</image>
+                <year>2005</year>
+               
+                <song id="song130">
+                    <song_name>Pavane</song_name>
+                    <length>01:22</length>
+                    <album_id>album793</album_id>
+                    <file>music/absurd-pavane.mp3</file>
+                </song>
+                <song id="song131">
+                    <song_name>Palästinalied</song_name>
+                    <length>02:45</length>
+                    <album_id>album793</album_id>
+                    <file>music/absurd-palastinalied.mp3</file>
+                </song>
+                <song id="song132">
+                    <song_name>Asatrru</song_name>
+                    <length>03:11</length>
+                    <album_id>album793</album_id>
+                    <file>music/absurd-asatrru.mp3</file>
+                </song>
+                <song id="song133">
+                    <song_name>Totentanz</song_name>
+                    <length>01:51</length>
+                    <album_id>album793</album_id>
+                    <file>music/absurd-totentanz.mp3</file>
+                </song>
+            </album>
+        </artist>
+    </genre>
+     <genre id="genre126">
+        <genre_name>Trve Black Metal</genre_name>
+        <artist id="artist458">
+        <country>Норвегия</country>
+        <info>Gorgoroth — норвежская блэк-метал-группа. Основана в 1992 году.
+          Название «Gorgoroth» взято из романа Дж. Р. Р. Толкина «Властелин колец»:
+          Горгорот — это покрытое вулканическим пеплом плато в Мордоре. 
+          В конце 2007 года в группе произошёл раскол. Основатель и единственный постоянный участник Gorgoroth 
+          гитарист Инфернус (настоящее имя Рогер Тиегс) с одной стороны и 
+          бас-гитарист Кинг ов Хелл (настоящее имя Том Като Виснес) и вокалист
+           Гаал (настоящее имя Кристиан Эспедал) с другой заявили о своих правах
+            на имя группы. Патентное бюро Норвегии вынесло решение в пользу Кинг 
+            ов Хелл и Гаала. В ответ Инфернус инициировал процесс в окружном суде 
+            Осло, который в марте 2009 года признал регистрацию товарного знака
+             Gorgoroth Гаалом и Кингом недействительной и присудил право на имя 
+             группы Инфернусу. Группа никогда не публиковала свои тексты,
+              но даже по названиям песен можно судить, что основным мотивом
+               является сатанизм. Сами музыканты неоднократно говорили, что в
+                их творчестве музыка вторична, а ключевую роль играет
+                 антихристианская направленность песен. </info>
+            <artist_name>Gorgoroth</artist_name>
+            <album id="album796">
+                <album_name>Antichrist</album_name>
+                <image>images/Antichrist.jpg</image>
+                <year>1996</year>
+                <song id="song145">
+                    <song_name>Bergtrollets Hevn</song_name>
+                    <length>03:51</length>
+                    <album_id>album796</album_id>
+                    <file>music/gorgoroth-bergtrollets-hevn.mp3</file>
+                </song>
+                <song id="song146">
+                    <song_name>Gorgoroth</song_name>
+                    <length>06:04</length>
+                    <album_id>album796</album_id>
+                    <file>music/gorgoroth-gorgoroth.mp3</file>
+                </song>
+                <song id="song147">
+                    <song_name>Heavens Fall</song_name>
+                    <length>03:40</length>
+                    <album_id>album796</album_id>
+                    <file>music/gorgoroth-heavens-fall.mp3</file>
+                </song>
+                <song id="song148">
+                    <song_name>Possessed (by Satan)</song_name>
+                    <length>04:50</length>
+                    <album_id>album796</album_id>
+                    <file>music/gorgoroth-possessed-by-satan.mp3</file>
+                </song>
+                <song id="song149">
+                    <song_name>Sorg</song_name>
+                    <length>06:11</length>
+                    <album_id>album796</album_id>
+                    <file>music/gorgoroth-sorg.mp3</file>
+                </song>
+            </album>
+            <album id="album797">
+                <album_name>Instinctus Bestialis</album_name>
+                <image>images/Instinctus.jpg</image>
+                <year>2015</year>
+                <song id="song150">
+                <song_name>Dionysian Rite</song_name>
+                    <length>04:15</length>
+                    <album_id>album797</album_id>
+                    <file>music/gorgoroth-dionysian-rite.mp3</file>
+                </song>
+                 <song id="song151">
+                <song_name>Ad Omnipotens Aeterne Diabolus</song_name>
+                    <length>05:44</length>
+                    <album_id>album797</album_id>
+                    <file>music/gorgoroth-ad-omnipotens-aeterne-diabolus.mp3</file>
+                </song>
+                 <song id="song152">
+                <song_name>Awakening</song_name>
+                    <length>02:06</length>
+                    <album_id>album797</album_id>
+                    <file>music/gorgoroth-awakening.mp3</file>
+                </song>
+                 <song id="song153">
+                <song_name>Burn In His Light</song_name>
+                    <length>04:01</length>
+                    <album_id>album797</album_id>
+                    <file>music/gorgoroth-burn-in-his-light.mp3</file>
+                </song>
+                 <song id="song154">
+                <song_name>Radix Malorum</song_name>
+                    <length>03:13</length>
+                    <album_id>album797</album_id>
+                    <file>music/gorgoroth-radix-malorum.mp3</file>
+                </song>
+            </album>
+        </artist>
+        <artist id="artist462">
+        <country>Норвегия</country>
+        <info>«Carpathian Forest» (рус. Карпатский лес) — норвежская блэк-метал-группа,    
+        основанная в 1990 году Наттефростом и Нордавиндом.
+Первое демо «Bloodlust and Perversion» было выпущено группой в 1992 году на кассете и получило 
+неожиданно восторженные отзывы слушателей. В 1993 году группа выпускает своё второе демо
+ «Journey through the cold moors of Svarttjern». Однако до 1995 Carpathian Forest были
+  малоизвестны. Культовый статус группа приобрела лишь после выхода первого EP — Through Chasm,
+   Caves and Titan Woods, который можно отнести к классике блэк-метала.
+В отличие от большинства других блэк-метал-групп, Carpathian Forest посвящают свои 
+произведения не только антихристианству, злу и сатанизму: некоторые песни этой группы 
+содержат маниакальные фантазии (садомазохизм, самоубийство, самоистязание, некрофилия, людоедство).
+ Группа внесла большой вклад в развитие блэк-метала. Творчество Carpathian Forest можно отнести 
+ к таким подвидам блэка, как тру-блэк и атмосферный блэк. </info>
+            <artist_name>Carpathian Forest</artist_name>
+            <album id="album798">
+                <album_name>Black Shining Leather</album_name>
+                <image>images/Black Shining Leather.jpg</image>
+                <year>1998</year>
+                <song id="song155">
+                    <song_name>The Northern Hemisphere</song_name>
+                    <length>06:42</length>
+                    <album_id>album798</album_id>
+                    <file>music/carpathian-forest-the-northern-hemishere.mp3</file>
+                </song>
+                <song id="song156">
+                    <song_name>Third Attempt</song_name>
+                    <length>03:18</length>
+                    <album_id>album798</album_id>
+                    <file>music/carpathian-forest-third-attempt.mp3</file>
+                </song>
+                <song id="song157">
+                    <song_name>In Silence I Observe</song_name>
+                    <length>03:42</length>
+                    <album_id>album798</album_id>
+                    <file>music/carpathian-forest-in-silence-i-observe.mp3</file>
+                </song>
+                <song id="song158">
+                    <song_name>Lupus</song_name>
+                    <length>03:06</length>
+                    <album_id>album798</album_id>
+                    <file>music/carpathian-forest-lupus.mp3</file>
+                </song>
+                <song id="song159">
+                    <song_name>Lunar Nights</song_name>
+                    <length>06:34</length>
+                    <album_id>album798</album_id>
+                    <file>music/carpathian-forest-lunar-nights.mp3</file>
+                </song>
+                <song id="song160">
+                    <song_name>Sadomasochistic</song_name>
+                    <length>04:02</length>
+                    <album_id>album798</album_id>
+                    <file>music/carpathian-forest-sadomasochistic.mp3</file>
+                </song>
+                <song id="song161">
+                    <song_name>Death Triumphant</song_name>
+                    <length>04:27</length>
+                    <album_id>album798</album_id>
+                    <file>music/carpathian-forest-death-triumphant.mp3</file>
+                </song>
+            </album>
+            <album id="album799">
+                <album_name>Strange Old Brew</album_name>
+                <image>images/Strange Old Brew.jpg</image>
+                <year>2000</year>
+                <song id="song162">
+                    <song_name>Return Of The Freezing Winds</song_name>
+                    <length>03:37</length>
+                    <album_id>album799</album_id>
+                    <file>music/carpathian-forest-return-of-the-freezing-winds.mp3</file>
+                </song>
+                <song id="song163">
+                    <song_name>Cloak Of Midnight</song_name>
+                    <length>05:28</length>
+                    <album_id>album799</album_id>
+                    <file>music/carpathian-forest-cloak-of-midnight.mp3</file>
+                </song>
+                <song id="song164">
+                    <song_name>House Of The Whipcord</song_name>
+                    <length>03:58</length>
+                    <album_id>album799</album_id>
+                    <file>music/carpathian-forest-house-of-the-whipcord.mp3</file>
+                </song>
+                <song id="song165">
+                    <song_name>Thanatology</song_name>
+                    <length>04:40</length>
+                    <album_id>album799</album_id>
+                    <file>music/carpathian-forest-thanatology.mp3</file>
+                </song>
+                <song id="song166">
+                    <song_name>Martyr / Sacrificulum</song_name>
+                    <length>03:26</length>
+                    <album_id>album799</album_id>
+                    <file>music/carpathian-forest-martyr-sacrificulum.mp3</file>
+                </song>
+            </album>
+        </artist>
+        <artist id="artist463">
+         <country>Россия</country>
+        <info>БЕСЪ / BES - это ритуальный блэк-метал с текстами заклинаний 
+        на церковнославянском языке, который пробирается в этот подлунный мир
+         зловонным дыханием адских существ, вздымающейся походкой дьявольских
+          копыт козла и серным огнем Пекло.</info>
+            <artist_name>БЕСЪ</artist_name>
+            <album id="album801">
+                <album_name>От Лукавого</album_name>
+                <image>images/От Лукавого.jpg</image>
+                <year>2023</year>
+                <song id="song174">
+                    <song_name>Ices Memorize</song_name>
+                    <length>04:58</length>
+                    <album_id>album801</album_id>
+                    <file>music/бbсъ-льды-по-мнятъ.mp3</file>
+                </song>
+                <song id="song175">
+                    <song_name>Profaneness</song_name>
+                    <length>04:54</length>
+                    <album_id>album801</album_id>
+                    <file>music/бbсъ-с-в-a-т-о-х-л-ь-с-т-в-о.mp3</file>
+                </song>
+                <song id="song176">
+                    <song_name>Foolishness</song_name>
+                    <length>05:41</length>
+                    <album_id>album801</album_id>
+                    <file>music/бbсъ-юро-дствiе.mp3</file>
+                </song>
+                <song id="song177">
+                    <song_name>Rhasons To Fire!</song_name>
+                    <length>04:58</length>
+                    <album_id>album801</album_id>
+                    <file>music/бbсъ-рa-сы-въ-пла-мa.mp3</file>
+                </song>
+                <song id="song178">
+                    <song_name>Savour And Find!</song_name>
+                    <length>04:49</length>
+                    <album_id>album801</album_id>
+                    <file>music/бbсъ-вк-си-те-и-брa-щете.mp3</file>
+                </song>
+                <song id="song179">
+                    <song_name>Conjure With Fire, Seduce With Blood</song_name>
+                    <length>03:43</length>
+                    <album_id>album801</album_id>
+                    <file>music/бbсъ-сма-гомъ-вра-ж-кро-вiю-ильщ.mp3</file>
+                </song>
+                <song id="song180">
+                    <song_name>Оглашенные, изыдите!</song_name>
+                    <length>05:26</length>
+                    <album_id>album801</album_id>
+                    <file>music/BS_-_Oglashennye_izydite_76907697 (1).mp3</file>
+                </song>
+            </album>
+        </artist>
+        <artist id="artist464">
+         <country>Норвегия</country>
+        <info>Immortal (в переводе с англ. — «бессмертный») — блэк-метал-группа 
+        из Норвегии. Коллектив образовался после распада дэт-метал-группы 
+        Amputation в 1991 году. Ранние полноформатные релизы Immortal были выполнены
+         в традиционном для блэк-метала стиле, но альбом At the Heart of Winter показал, 
+         что группа начала экспериментировать на стыке блэк-метала и немецкой школы трэш-метала.
+          Immortal оказали большое влияние на современную метал-сцену.</info>
+            <artist_name>Immortal</artist_name>
+            <album id="album802">
+                <album_name>Sons Of Northern Darkness</album_name>
+                <image>images/sons.jpg</image>
+                <year>2002</year>
+                <song id="song181">
+                    <song_name>Tyrants</song_name>
+                    <length>06:16</length>
+                    <album_id>album802</album_id>
+                    <file>music/Immortal_-_Tyrants_48271408.mp3</file>
+                </song>
+                <song id="song182">
+                    <song_name>In my kingdom cold</song_name>
+                    <length>07:14</length>
+                    <album_id>album802</album_id>
+                    <file>music/Immortal_-_In_my_kingdom_cold_48271412.mp3</file>
+                </song>
+                <song id="song183">
+                    <song_name>Demonium</song_name>
+                    <length>03:56</length>
+                    <album_id>album802</album_id>
+                    <file>music/Immortal_-_Demonium_48271409.mp3</file>
+                </song>
+                <song id="song184">
+                    <song_name>Sons of northern darkness</song_name>
+                    <length>04:45</length>
+                    <album_id>album802</album_id>
+                    <file>music/Immortal_-_Sons_of_northern_darkness_48271407.mp3</file>
+                </song>
+                <song id="song185">
+                    <song_name>One by one</song_name>
+                    <length>04:58</length>
+                    <album_id>album802</album_id>
+                    <file>music/Immortal_-_One_by_one_48271406.mp3</file>
+                </song>
+            </album>
+        </artist>
+    </genre>
+</music>

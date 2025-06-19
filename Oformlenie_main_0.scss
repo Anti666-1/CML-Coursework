@@ -1,0 +1,427 @@
+$dark-forest-url: url(1681494223_pictures-pibig-info-p-temnii-les-illyustratsiya-vkontakte-58.jpg);
+$border-color: #5d7070;
+$scrollbar-color-thumb: #89b6b9;
+$scrollbar-color-track: #202423;
+$main-text-color: #95cfd3;
+$aniron-font: "Aniron";
+$ghost-url: url("—Pngtree—3d-smoky-horror-ghost-girl_16561213-full.png");
+
+html,
+body {
+  background: {
+    image: $dark-forest-url;
+    repeat: no-repeat;
+    size: cover;
+    position: center;
+    attachment: fixed;
+  }
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  font: {
+    size: 16px;
+    family: "Aniron";
+  }
+}
+
+.grid {
+  display: grid;
+  grid: {
+    template-areas:
+      "head head"
+      "search genre"
+      "cont genre"
+      "niz niz";
+    template-columns: 70% 30%;
+    template-rows: 15% 10% 1fr 15%;
+    gap: 0px;
+  }
+  margin: {
+    left: 12%;
+    right: 12%;
+  }
+  min-height: 100vh;
+  max-height: 100vh;
+  overflow: hidden;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(50, 63, 62) 0%,
+    rgba(50, 63, 62, 0.5) 8%,
+    rgb(50, 63, 62) 15%,
+    rgb(30, 36, 40) 60%,
+    #191d1e 100%
+  );
+}
+
+header {
+  border-bottom: 1px solid $border-color;
+  background-color: transparent;
+  color: white;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  display: flex;
+  gap: 3%;
+
+  #verh {
+    flex: none;
+    display: flex;
+    gap: 20%;
+    width: 100%;
+    color: $main-text-color;
+  }
+}
+
+#poisk {
+  box-sizing: border-box;
+  background-color: transparent;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.song-item {
+  box-sizing: border-box;
+  border-top: 1px solid $border-color;
+  min-height: 0;
+  max-height: 100%;
+  overflow-y: auto;
+  width: 100%;
+  overflow-x: hidden;
+  font-size: 12px;
+  scrollbar-width: thin;
+  scrollbar-color: $scrollbar-color-thumb $scrollbar-color-track;
+  background-color: transparent;
+  box-shadow: inset -5px -5px 15px rgba(0, 0, 0, 0.5);
+
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+}
+
+aside {
+  border-left: 1px solid $border-color;
+  background: {
+    image: $ghost-url;
+    size: 90% 80%;
+    repeat: no-repeat;
+    position: 100% 100%; // x y
+  };
+  padding: 1em;
+  overflow-y: auto;
+  max-height: 100%;
+  scrollbar-width: thin;
+  scrollbar-color: $scrollbar-color-thumb $scrollbar-color-track;
+  z-index: 8;
+
+  ul {
+    li {
+      list-style-type: none;
+      z-index: 9;
+
+      a {
+        color: white;
+        text-decoration: none;
+        z-index: 10;
+      }
+    }
+  }
+
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+}
+
+#genre {
+  list-style-type: none;
+  padding-left: 10%;
+  margin-left: 0%;
+  font-size: 16px;
+  color: white;
+}
+
+footer {
+  border-top: 1px solid $border-color;
+  background-color: transparent;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+#search_line {
+  position: relative;
+  background: {
+    image: $dark-forest-url;
+    repeat: no-repeat;
+    size: cover;
+    position: center;
+    attachment: fixed;
+  };
+  width: 90%;
+  height: 3em;
+  margin: 2em auto; 
+  border: #7d9797 4px ridge;
+  border-radius: 5px;
+  color: white;
+  font-family: $aniron-font;
+
+  &:hover,
+  &:focus-visible {
+    box-shadow:
+      5px 5px 10px rgba(174, 206, 201, 0.2),
+      -5px -5px 10px rgba(174, 206, 201, 0.2),
+      -5px 5px 10px rgba(174, 206, 201, 0.2),
+      5px -5px 10px rgba(174, 206, 201, 0.2);
+    outline: #132020 1px solid;
+  }
+
+  &::placeholder {
+    color: rgb(174, 206, 201);
+    font-family: $aniron-font;
+  }
+
+  &::-webkit-search-cancel-button {
+    display: none;
+  }
+}
+
+input[type="search"]::-webkit-search-cancel-button { 
+  display: none;
+}
+
+#v1,
+#v2 {
+  display: inline-block;
+}
+
+#ghost,
+#free,
+#cab,
+#genres {
+  display: block;
+}
+
+#cab {
+  margin: 10% -28% 5%; 
+  a {
+    text-decoration: none;
+    color: $main-text-color;
+  }
+}
+
+#ghost {
+  font-size: 50px;
+  color: white;
+}
+
+#cab,
+#free,
+#genres a {
+  font-size: 20px;
+  color: $main-text-color;
+  text-decoration: none;
+}
+
+header {
+  #verh {
+    flex: none;
+    display: flex;
+    gap: 20%;
+    width: 100%;
+  }
+
+  #logo {
+    background: {
+      image: $ghost-url;
+      size: 100% 110%;
+    };
+    width: 235px;
+    height: 167px;
+    margin-left: 3%;
+    flex: none;
+  }
+}
+
+#v {
+  visibility: hidden;
+}
+
+@mixin mobile {
+  @media (max-width: 1110px) {
+    header #verh {
+      gap: 10%;
+    }
+
+    #ghost {
+      font-size: 35px;
+    }
+
+    #cab,
+    #free,
+    #genres {
+      font-size: 16px;
+    }
+  }
+}
+
+@mixin small-mobile {
+  @media (max-width: 768px) {
+    .grid {
+      grid: {
+        template-areas:
+          "head head"
+          "search genre"
+          "cont genre"
+          "niz niz";
+        template-columns: 100%;
+        template-rows: 15% 10% 65% 15%;
+      };
+      margin: 0;
+    }
+
+    header #verh {
+      flex: none;
+      display: flex;
+      gap: 10%;
+      width: 100%;
+    }
+
+    html,
+    body {
+      font-size: 12px;
+    }
+
+    #ghost {
+      font-size: 26px;
+      vertical-align: middle;
+      margin: 5% 10% 5% 5%; 
+    }
+
+    #cab,
+    #genres {
+      font-size: 16px;
+    }
+
+    #free {
+      display: none;
+      visibility: hidden;
+    }
+
+    #genres > ul > li {
+      position: relative;
+    }
+
+    #genres ul {
+      position: absolute;
+    }
+
+    #pod {
+      margin-left: -70px;
+      visibility: hidden;
+    }
+
+    #v {
+      margin-left: -60px;
+      visibility: hidden;
+      display: block;
+      width: 300px;
+    }
+  }
+}
+
+@media (max-width: 1500px) {
+  .grid {
+    margin: 0;
+  }
+}
+
+@include mobile;
+@include small-mobile;
+
+#genres {
+  &:hover {
+    #v {
+      a {
+        visibility: visible;
+        font-size: 10px;
+        text-decoration: none;
+        color: white;
+      }
+
+      padding: 5px;
+      margin-top: -1px;
+      visibility: visible;
+      width: 200px;
+      border: $border-color 1px solid;
+      background-color: rgba(25, 29, 30, 0.8);
+    }
+
+    padding: 0px; 
+    width: 200px;
+
+    #pod {
+      margin-top: -20px;
+      visibility: hidden;
+      width: 300px;
+    }
+  }
+}
+
+ul {
+  li {
+    list-style-type: none;
+  }
+}
+
+header {
+  #logo {
+    width: 200px;
+    height: 140px;
+    margin-left: 0;
+  }
+
+  &,
+  #verh {
+    gap: 0;
+  }
+}
+
+@mixin extra-small-mobile {
+  @media (max-width: 480px) {
+    header {
+      #logo {
+        width: 150px;
+        height: 105px;
+        position: relative;
+        translate: 0 30px;
+        background: {
+          repeat: no-repeat;
+          size: 100%;
+        };
+      }
+    }
+
+    #ghost {
+      font-size: 20px;
+      margin: 5px;
+    }
+
+    #v1,
+    #v2,
+    header #verh {
+      display: block;
+    }
+
+    #v2 {
+      margin-left: 20%;
+      font-size: 12px;
+    }
+
+    #cab {
+      margin: 5% -28% 0;
+    }
+
+    #v {
+      margin-left: -80px;
+    }
+  }
+}
+@include extra-small-mobile;
